@@ -1,0 +1,7 @@
+Rencana Konten Gilang
+
+- Javascript
+- PHP Framework
+- Interview
+- Vlog
+
