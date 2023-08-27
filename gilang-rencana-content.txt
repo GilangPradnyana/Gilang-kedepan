@@ -3,7 +3,9 @@ Rencana Konten Gilang
 - Javascript
 * ES6
 * Framework JS
-- Fundamental Data Structure
+  ^ Angular
+  ^ React
 - PHP Framework
+  ^ Laravel
 - Interview
 - Vlog
