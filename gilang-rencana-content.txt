@@ -4,6 +4,7 @@ Rencana Konten Gilang
 * ES6
 * Framework JS
    ^ Vue JS
+   ^ React JS
 - Fundamental Data Structure
 - PHP Framework
   ^ Laravel
