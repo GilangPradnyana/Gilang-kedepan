@@ -1,5 +1,5 @@
 Rencana Konten Gilang
-
+- Python
 - Javascript
 * ES6
 * Framework JS
